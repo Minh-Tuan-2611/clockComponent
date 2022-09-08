@@ -60,7 +60,7 @@ export default function ClockScreen() {
           }}
         />
       </Row>
-      <Row containerStyle={{width: '100%',marginVertical:12}}>
+      <Row containerStyle={{width: '100%',marginVertical:'8%'}}>
         <BtnClockCommon
           isActive={number === 9}
           number="9"
